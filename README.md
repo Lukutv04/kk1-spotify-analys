@@ -21,7 +21,7 @@ README.md         # Den här filen
 
 1. Se till att du har Python 3 med följande paket installerade:
    ```
-    pip install pandas numpy matplotlib seaborn
+    pip install -r requirements.txt
    ```
 2. Öppna `notebook.ipynb` i Jupyter Lab eller Jupyter Notebook.
 3. Kör alla celler uppifrån och ned (Kernel → Restart & Run All).
